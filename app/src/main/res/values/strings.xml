@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Upsocl</string>
+    <string name="splash_text">Cosas que inspiran, cosas que intrigan y cosas que deberian ser vistas</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="banner_ad_unit_id">/100064084/andorid_test</string>
 </resources>
